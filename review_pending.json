@@ -1,21 +1,5 @@
 {
   "version": 1,
-  "updated_at": 1787152105,
-  "items": [
-    {
-      "id": "41d0334a-b26a-4e28-9671-3c2aa7b7924c",
-      "submitter": "Virream",
-      "submitted_at": 1787152075,
-      "nickname": "test",
-      "player_id": "123456",
-      "reason": "其他原因",
-      "event_date": "2026-08-19 23:06",
-      "replay_link": "https://test.com",
-      "remarks": "",
-      "previous_nicknames": [],
-      "status": "checking",
-      "checkout_by": "Virream",
-      "checkout_at": 1787152105
-    }
-  ]
+  "updated_at": 1787152157,
+  "items": []
 }
