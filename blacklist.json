@@ -12,5 +12,19 @@
     "auditor": "Virream",
     "source": "server",
     "locked": true
+  },
+  {
+    "cloud_id": "102ab475-8ae5-4985-aca0-a43b971b1f18",
+    "nickname": "test",
+    "player_id": "123456",
+    "reason": "其他原因",
+    "event_date": "2026-08-19 23:06",
+    "replay_link": "https://test.com",
+    "remarks": "",
+    "previous_nicknames": [],
+    "audited": true,
+    "auditor": "Virream",
+    "source": "server",
+    "locked": true
   }
 ]
