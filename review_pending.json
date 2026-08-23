@@ -1,5 +1,21 @@
 {
   "version": 1,
-  "updated_at": 1787153569,
-  "items": []
+  "updated_at": 1787475171,
+  "items": [
+    {
+      "id": "511b0ade-5e13-491c-9bb1-7a0faedc79bd",
+      "submitter": "M1zuk1-ark",
+      "submitted_at": 1787475170,
+      "nickname": "北条麻妃",
+      "player_id": "176784760",
+      "reason": "TK(抢战区)",
+      "event_date": "2026-08-23 00:00",
+      "replay_link": "https://warthunder.com/en/tournament/replay/513056615424174741",
+      "remarks": "",
+      "previous_nicknames": [],
+      "status": "pending",
+      "checkout_by": "",
+      "checkout_at": 0
+    }
+  ]
 }
