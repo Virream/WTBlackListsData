@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1787475171,
+  "updated_at": 1788111394,
   "items": [
     {
       "id": "511b0ade-5e13-491c-9bb1-7a0faedc79bd",
@@ -12,6 +12,36 @@
       "event_date": "2026-08-23 00:00",
       "replay_link": "https://warthunder.com/en/tournament/replay/513056615424174741",
       "remarks": "",
+      "previous_nicknames": [],
+      "status": "pending",
+      "checkout_by": "",
+      "checkout_at": 0
+    },
+    {
+      "id": "720d1ebb-5bd3-4a82-8d24-d6e757415973",
+      "submitter": "qq1356879045",
+      "submitted_at": 1788111391,
+      "nickname": "1nt3graji",
+      "player_id": "138822672",
+      "reason": "TK(抢战区)",
+      "event_date": "2026-08-30 21:36",
+      "replay_link": "https://warthunder.com/zh/tournament/replay/515823738299394389",
+      "remarks": "空战tk 时间 1：35",
+      "previous_nicknames": [],
+      "status": "pending",
+      "checkout_by": "",
+      "checkout_at": 0
+    },
+    {
+      "id": "1c2af8ce-fcc2-4977-b388-cd19f042a1ca",
+      "submitter": "qq1356879045",
+      "submitted_at": 1788111393,
+      "nickname": "1nt3graji",
+      "player_id": "138822672",
+      "reason": "TK(抢战区)",
+      "event_date": "2026-08-30 21:36",
+      "replay_link": "https://warthunder.com/zh/tournament/replay/515823738299394389",
+      "remarks": "空战tk 时间 1：35",
       "previous_nicknames": [],
       "status": "pending",
       "checkout_by": "",
